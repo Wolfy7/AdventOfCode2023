@@ -1,6 +1,5 @@
 import regex as re
 
-
 # Part 1
 def part_1(data):
     result = 0
